@@ -15,4 +15,5 @@
 ## Ссылка на дашборд
 ---
 [Dashboard](https://public.tableau.com/views/Automatization_/sheet4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 [Presentation](https://disk.yandex.ru/i/thF80YZudpOLrA)
